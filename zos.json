@@ -1,0 +1,7 @@
+{
+  "name": "Greeter",
+  "version": "0.1.0",
+  "contracts": {
+    "Greeter": "GreeterV2"
+  }
+}
